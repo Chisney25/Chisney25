@@ -38,6 +38,14 @@ In Power and Machinery Engineering, everything is about **Input → Logic → Ou
 
 ---
 
+### ♾️ DevOps & ALM Focus
+I am currently specializing in the automation of the Software Development Lifecycle (SDLC).
+- **Core Strategy:** [Enterprise Environment & Governance Framework](https://github.com/Chisney25/DevOps-Infrastructure-Lab/blob/main/environment-strategy.md)
+- **Version Control:** Git-flow methodology for managing multi-environment deployments.
+- **CI/CD Tools:** Exploring Azure DevOps Pipelines and GitHub Actions for automated solution exports.
+
+---
+
 ### 📫 Let's Connect!
 - 💼 **LinkedIn:** [miracle-chisom-ikechukwu](https://www.linkedin.com/in/miracle-chisom-ikechukwu-3579b015a)
 - 📧 **Email:** chisommiracle25@gmail.com
