@@ -15,9 +15,16 @@ Based in Wroclaw, Poland. I specialize in bridging engineering logic with Micros
 - **M365:** SharePoint (Data Modeling), Teams, Excel.
 - **Languages/Web:** Basic C#, JavaScript, SQL.
 - **Tools:** GitHub, Azure DevOps, Microsoft 365 Admin Center.
+  
+![Power Apps](https://img.shields.io/badge/Power%20Apps-0078D4?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
 ### 📂 Featured Projects
 * **[Procurement-Digitization-System](#)** - A SharePoint-integrated Power Platform solution that reduced manual friction by 25%.
 * **[Automated-Incident-Tracker](#)** - A Power Automate flow for real-time ticket escalation and status reporting.
+
+  
