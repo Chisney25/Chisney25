@@ -14,31 +14,15 @@ In Power and Machinery Engineering, everything is about **Input → Logic → Ou
 
 ---
 
-### 🛠 My Tech Stack & Tools
+### 🛠 Technical Proficiency
 
-**Microsoft Power Platform**
-![Power Apps](https://img.shields.io/badge/Power%20Apps-0078D4?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-008080?style=for-the-badge&logo=microsoft&logoColor=white)
-
-**Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Productivity & Collaboration**
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-FF3C00?style=for-the-badge&logo=microsoft365&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-
-**Programming & Data**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Power Platform** | ![Power Apps](https://img.shields.io/badge/-Power%20Apps-0078D4?logo=microsoftpowerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white) ![Copilot](https://img.shields.io/badge/-Copilot%20Studio-008080?logo=microsoft&logoColor=white) |
+| **Data & Cloud** | ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?logo=microsoftsharepoint&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoftsqlserver&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white) |
+| **DevOps & SDLC** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?logo=azuredevops&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) |
+| **Engineering Logic**| Process Mapping, Root Cause Analysis (RCA), System Architecture |
+| **Programming** | C#, JavaScript (Basic), JSON, Power Fx |
 ---
 
 ### 🔭 Current Focus & Growth
