@@ -13,7 +13,7 @@ Based in Wroclaw, Poland. I specialize in bridging engineering logic with Micros
 ### 🛠 Tech Stack & Tools
 - **Power Platform:** Power Apps, Power Automate, Power BI, Copilot Studio.
 - **M365:** SharePoint (Data Modeling), Teams, Excel.
-- **Languages/Web:** Basic C#, BashScript, SQL.
+- **Languages/Web:** Basic C#, JavaScript, SQL.
 - **Tools:** GitHub, Azure DevOps, Microsoft 365 Admin Center.
 
 ---
