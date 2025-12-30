@@ -46,6 +46,14 @@ I am currently specializing in the automation of the Software Development Lifecy
 
 ---
 
+## 🧪 Automated Quality Assurance
+I use **GitHub Actions** to ensure my infrastructure code is high-quality:
+- **Documentation Audits:** Ensures all strategy files include Security/RBAC keywords.
+- **Bash Linting:** Automatically checks shell scripts for syntax errors before deployment.
+- **CI/CD Integration:** Simulates script execution in a Linux (Ubuntu) environment.
+
+---
+
 ### 📫 Let's Connect!
 - 💼 **LinkedIn:** [miracle-chisom-ikechukwu](https://www.linkedin.com/in/miracle-chisom-ikechukwu-3579b015a)
 - 📧 **Email:** chisommiracle25@gmail.com
