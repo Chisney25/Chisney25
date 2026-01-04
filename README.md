@@ -1,63 +1,60 @@
-# Hi, I'm Miracle Chisom Ikechukwu! 👋 
-
-### ⚙️ Engineering Logic | 🚀 Power Platform Architecture | 🛠 Cloud/DevOps Enthusiast
-
-I am a **B.Eng. degree holder in Power and Machinery Engineering** currently bridging the gap between physical system optimization and digital automation. Based in **Wroclaw, Poland**, I architect scalable, logical workflows that solve real-world operational friction.
+# Hi there, I'm Chisom 👋
+**Junior DevOps Engineer | Linux • Git • CI/CD • Automation**
 
 ---
 
-### 💡 Why Engineering & Power Platform?
-In Power and Machinery Engineering, everything is about **Input → Logic → Output**. I apply this exact principle to the **Microsoft Power Platform**:
-- **Process Mapping:** Treating business workflows like mechanical systems to identify and eliminate bottlenecks.
-- **Root Cause Analysis:** Using diagnostic engineering logic to troubleshoot complex Power Automate flows and log data.
-- **Reliability:** Applying the precision of a 98% data accuracy standard to every digital solution I deploy.
+## 🔹 About Me
+I’m a Junior DevOps Engineer with a strong engineering background and hands-on experience building DevOps labs, CI/CD pipelines, and automation workflows. I combine 3+ years of technical operations experience with practical Linux and GitHub skills to deliver **reliable, repeatable, and documented solutions**.
+
+- 🌱 Currently focused on CI/CD pipelines, Linux automation, and containerized workflows  
+- 💻 Experienced with Git, GitHub Actions, Bash scripting, and Ubuntu environments  
+- 🔧 Passionate about building reproducible DevOps workflows and system reliability  
+- 🌍 Based in Wrocław, Poland | Fluent in English | Conversational in French | Beginner in Polish
 
 ---
 
-### 🛠 Technical Proficiency
+## 🔹 DevOps Skills & Tools
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Power Platform** | ![Power Apps](https://img.shields.io/badge/-Power%20Apps-0078D4?logo=microsoftpowerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white) ![Copilot](https://img.shields.io/badge/-Copilot%20Studio-008080?logo=microsoft&logoColor=white) |
-| **Data & Cloud** | ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?logo=microsoftsharepoint&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoftsqlserver&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white) |
-| **DevOps & SDLC** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?logo=azuredevops&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) |
-| **Engineering Logic**| Process Mapping, Root Cause Analysis (RCA), System Architecture |
-| **Programming** | C#, JavaScript (Basic), JSON, Power Fx |
----
-
-### 🔭 Current Focus & Growth
-- **ALM Implementation:** Mastering Application Lifecycle Management (ALM) using Azure DevOps to automate Power Platform deployments.
-- **Certification Journey:** Currently preparing for **PL-900** (Power Platform Fundamentals) and **AZ-900** (Azure Fundamentals).
-- **Academic Pursuit:** Completing my M.Sc. at **Wroclaw University of Science and Technology**.
+| Linux & Scripting | Version Control | CI/CD & Automation | Documentation |
+|------------------|----------------|------------------|---------------|
+| Ubuntu & Bash    | Git & GitHub   | GitHub Actions    | Markdown / VS Code |
+| Shell scripting  | Branching      | Workflow Automation | SOPs & Labs |
+| Linux environment setup | Pull Requests & Merges | Containerized Pipelines | Troubleshooting Documentation |
 
 ---
 
-### 📂 Featured Projects
-* 🚀 **[Procurement Digitization System](https://github.com/Chisney25/Procurement-Digitization-System)** - A full-cycle SharePoint and Power Automate solution designed to reduce process friction by 25%. Includes full [System Design Documentation](./docs/system-design-specification.md).
-* 📊 **[Incident Management Tracker](https://github.com/Chisney25)** - A framework for standardizing technical support request cycles with high data integrity.
+## 🔹 Featured Projects
+
+### 1️⃣ CI/CD Pipeline with GitHub Actions
+https://github.com/Chisney25/ci-cd-docker-kubernetes  
+Automated build, test, and deployment pipeline for containerized applications using GitHub Actions and Bash scripts. Demonstrates version control, workflow automation, and production-style practices.
+
+### 2️⃣ DevOps Labs Portfolio
+https://github.com/Chisney25/DevOps-Infrastructure-Lab  
+Hands-on Linux automation labs and environment configurations. Includes documented workflows and reproducible operations for CI/CD practice.
+
+### 3️⃣ Additional Labs & Experiments
+https://github.com/Chisney25/DevOps-Infrastructure-Lab/tree/main/scripts
+Projects demonstrating scripting, system management, and automation experiments in simulated production environments.
 
 ---
 
-### ♾️ DevOps & ALM Focus
-I am currently specializing in the automation of the Software Development Lifecycle (SDLC).
-- **Core Strategy:** [Enterprise Environment & Governance Framework](https://github.com/Chisney25/DevOps-Infrastructure-Lab/blob/main/environment-strategy.md)
-- **Version Control:** Git-flow methodology for managing multi-environment deployments.
-- **CI/CD Tools:** Exploring Azure DevOps Pipelines and GitHub Actions for automated solution exports.
+## 🔹 GitHub Stats
+![Chisom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chisney25&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chisney25&layout=compact&theme=radical)  
 
 ---
 
-## 🧪 Automated Quality Assurance
-I use **GitHub Actions** to ensure my infrastructure code is high-quality:
-- **Documentation Audits:** Ensures all strategy files include Security/RBAC keywords.
-- **Bash Linting:** Automatically checks shell scripts for syntax errors before deployment.
-- **CI/CD Integration:** Simulates script execution in a Linux (Ubuntu) environment.
+## 🔹 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/chisommiracle)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Chisney25)
 
 ---
 
-### 📫 Let's Connect!
-- 💼 **LinkedIn:** [miracle-chisom-ikechukwu](https://www.linkedin.com/in/miracle-chisom-ikechukwu-3579b015a)
-- 📧 **Email:** chisommiracle25@gmail.com
-- 📍 **Location:** Wroclaw, Poland (Available for Hybrid/Onsite roles in Krakow & Wroclaw)
-
----
-*“Engineering is not just about machines; it’s about optimizing the logic of the world around us.”*
+## 🔹 Goals & Learning
+Continuously expanding my DevOps skillset to include:
+- Container orchestration (Docker, Kubernetes)  
+- Monitoring and alerting workflows  
+- Cloud automation (AWS, Azure, GCP basics)  
+- Advanced CI/CD pipelines  
+While reinforcing **operational reliability, automation best practices, and reproducible workflows**.
