@@ -39,12 +39,6 @@ Projects demonstrating scripting, system management, and automation experiments 
 
 ---
 
-## 🔹 GitHub Stats
-![Chisom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chisney25&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chisney25&layout=compact&theme=radical)  
-
----
-
 ## 🔹 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/chisommiracle)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Chisney25)
