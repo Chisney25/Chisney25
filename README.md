@@ -34,7 +34,8 @@ https://github.com/Chisney25/DevOps-Infrastructure-Lab
 Hands-on Linux automation labs and environment configurations. Includes documented workflows and reproducible operations for CI/CD practice.
 
 ### 3️⃣ Additional Labs & Experiments
-https://github.com/Chisney25/DevOps-Infrastructure-Lab/tree/main/scripts
+https://github.com/Chisney25/system-guardian
+
 Projects demonstrating scripting, system management, and automation experiments in simulated production environments.
 
 ---
