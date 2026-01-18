@@ -1,55 +1,79 @@
-# Hi there, I'm Chisom 👋
-**Junior DevOps Engineer | Linux • Git • CI/CD • Automation**
+# Miracle Chisom Ikechukwu
+Junior DevOps Engineer  
+Linux • Git • CI/CD • Docker • Kubernetes • Automation
 
 ---
 
-## 🔹 About Me
-I’m a Junior DevOps Engineer with a strong engineering background and hands-on experience building DevOps labs, CI/CD pipelines, and automation workflows. I combine 3+ years of technical operations experience with practical Linux and GitHub skills to deliver **reliable, repeatable, and documented solutions**.
+## Profile
 
-- 🌱 Currently focused on CI/CD pipelines, Linux automation, and containerized workflows  
-- 💻 Experienced with Git, GitHub Actions, Bash scripting, and Ubuntu environments  
-- 🔧 Passionate about building reproducible DevOps workflows and system reliability  
-- 🌍 Based in Wrocław, Poland | Fluent in English | Conversational in French | Beginner in Polish
+Hands-on Junior DevOps Engineer focused on building and documenting real-world infrastructure, automation, and delivery workflows. I work primarily with Linux systems, containerized applications, and Kubernetes-based deployments, backed by CI/CD pipelines and clean repository practices.
+
+I bring an operations and technical support background into DevOps, which translates into strong troubleshooting, system awareness, and documentation discipline.
 
 ---
 
-## 🔹 DevOps Skills & Tools
+## Core Competencies
 
-| Linux & Scripting | Version Control | CI/CD & Automation | Documentation |
-|------------------|----------------|------------------|---------------|
-| Ubuntu & Bash    | Git & GitHub   | GitHub Actions    | Markdown / VS Code |
-| Shell scripting  | Branching      | Workflow Automation | SOPs & Labs |
-| Linux environment setup | Pull Requests & Merges | Containerized Pipelines | Troubleshooting Documentation |
-
----
-
-## 🔹 Featured Projects
-
-### 1️⃣ CI/CD Pipeline with GitHub Actions
-https://github.com/Chisney25/ci-cd-docker-kubernetes  
-Automated build, test, and deployment pipeline for containerized applications using GitHub Actions and Bash scripts. Demonstrates version control, workflow automation, and production-style practices.
-
-### 2️⃣ DevOps Labs Portfolio
-https://github.com/Chisney25/DevOps-Infrastructure-Lab  
-Hands-on Linux automation labs and environment configurations. Includes documented workflows and reproducible operations for CI/CD practice.
-
-### 3️⃣ Additional Labs & Experiments
-https://github.com/Chisney25/system-guardian
-
-Projects demonstrating scripting, system management, and automation experiments in simulated production environments.
+- Linux systems administration (Ubuntu)
+- Git & GitHub (branching, commits, pull requests)
+- Containerization with Docker
+- Kubernetes deployments and services
+- CI/CD workflows (build, containerize, deploy)
+- Bash scripting and automation
+- Infrastructure and monitoring labs
+- Technical documentation (Markdown, READMEs)
 
 ---
 
-## 🔹 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/chisommiracle)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Chisney25)
+## Selected Projects
+
+### CI/CD with Docker and Kubernetes  
+Repository: https://github.com/Chisney25/ci-cd-docker-kubernetes  
+
+End-to-end CI/CD workflow demonstrating application containerization with Docker and deployment using Kubernetes manifests. Includes image build, service exposure, and deployment orchestration.
 
 ---
 
-## 🔹 Goals & Learning
-Continuously expanding my DevOps skillset to include:
-- Container orchestration (Docker, Kubernetes)  
-- Monitoring and alerting workflows  
-- Cloud automation (AWS, Azure, GCP basics)  
-- Advanced CI/CD pipelines  
-While reinforcing **operational reliability, automation best practices, and reproducible workflows**.
+### Gatekeeper – Monitoring & Automation  
+Repository: https://github.com/Chisney25/gatekeeper  
+
+Linux-based monitoring and automation project focused on service health checks, log inspection, and scripted alert logic.
+
+---
+
+### System Guardian – Linux Monitoring Lab  
+Repository: https://github.com/Chisney25/system-guardian  
+
+Bash-driven monitoring lab for system resources such as CPU, memory, and running processes, using threshold-based checks.
+
+---
+
+### DevOps Infrastructure Lab  
+Repository: https://github.com/Chisney25/DevOps-Infrastructure-Lab  
+
+Infrastructure-focused lab covering Linux setup, environment configuration, service management, and foundational DevOps workflows.
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chisney25&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chisney25&layout=compact)
+
+---
+
+## Focus Areas
+
+- Improving CI/CD pipelines and automation depth
+- Strengthening Kubernetes deployment patterns
+- Expanding Linux and infrastructure labs
+- Maintaining clear, reproducible documentation
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/chisommiracle  
+GitHub: https://github.com/Chisney25
+
+---
