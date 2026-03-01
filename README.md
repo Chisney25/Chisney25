@@ -1,5 +1,5 @@
 # Miracle Chisom Ikechukwu
-Junior DevOps Engineer  
+DevOps Engineer  
 Linux • Git • CI/CD • Docker • Kubernetes • Automation
 
 ---
