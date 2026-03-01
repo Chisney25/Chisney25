@@ -6,7 +6,7 @@ Linux • Git • CI/CD • Docker • Kubernetes • Automation
 
 ## Profile
 
-Hands-on Junior DevOps Engineer focused on building and documenting real-world infrastructure, automation, and delivery workflows. I work primarily with Linux systems, containerized applications, and Kubernetes-based deployments, backed by CI/CD pipelines and clean repository practices.
+Hands-on DevOps Engineer focused on building and documenting real-world infrastructure, automation, and delivery workflows. I work primarily with Linux systems, containerized applications, and Kubernetes-based deployments, backed by CI/CD pipelines and clean repository practices.
 
 I bring an operations and technical support background into DevOps, which translates into strong troubleshooting, system awareness, and documentation discipline.
 
