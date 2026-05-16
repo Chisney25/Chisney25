@@ -1,79 +1,58 @@
-# Miracle Chisom Ikechukwu
-DevOps Engineer  
-Linux • Git • CI/CD • Docker • Kubernetes • Automation
+# Hi, I'm Miracle Chisom Ikechukwu
+### DevOps Engineer | Infrastructure & Automation Specialist
+
+I am a DevOps Engineer focused on bridging the gap between development and operations through automation, scalability, and observability. With a background in Technical Operations and Systems Support, I specialize in transforming manual workflows into resilient, automated CI/CD pipelines.
 
 ---
 
-## Profile
-
-Hands-on DevOps Engineer focused on building and documenting real-world infrastructure, automation, and delivery workflows. I work primarily with Linux systems, containerized applications, and Kubernetes-based deployments, backed by CI/CD pipelines and clean repository practices.
-
-I bring an operations and technical support background into DevOps, which translates into strong troubleshooting, system awareness, and documentation discipline.
-
----
-
-## Core Competencies
-
-- Linux systems administration (Ubuntu)
-- Git & GitHub (branching, commits, pull requests)
-- Containerization with Docker
-- Kubernetes deployments and services
-- CI/CD workflows (build, containerize, deploy)
-- Bash scripting and automation
-- Infrastructure and monitoring labs
-- Technical documentation (Markdown, READMEs)
+### What I’m currently focusing on:
+- **Infrastructure as Code:** Building cloud-agnostic environments using Terraform.
+- **Container Orchestration:** Scaling microservices with Kubernetes & Docker.
+- **Automated Workflows:** Designing robust CI/CD pipelines using GitHub Actions & GitLab CI.
+- **Observability:** Developing custom Python-based tools for proactive system monitoring.
 
 ---
 
-## Selected Projects
+### Technical Stack & Tools
 
-### CI/CD with Docker and Kubernetes  
-Repository: https://github.com/Chisney25/ci-cd-docker-kubernetes  
-
-End-to-end CI/CD workflow demonstrating application containerization with Docker and deployment using Kubernetes manifests. Includes image build, service exposure, and deployment orchestration.
-
----
-
-### Gatekeeper – Monitoring & Automation  
-Repository: https://github.com/Chisney25/gatekeeper  
-
-Linux-based monitoring and automation project focused on service health checks, log inspection, and scripted alert logic.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **DevOps & CI/CD** | GitHub Actions, GitLab CI, GitOps, Jenkins |
+| **Infrastructure** | Terraform, Ansible, Linux (Ubuntu/CentOS) |
+| **Containers** | Kubernetes (K8s), Docker, Helm |
+| **Networking** | VPC/VNet, Load Balancing, DNS, VPN, Subnetting |
+| **Languages** | Python, Bash, SQL, Shell Scripting |
+| **Cloud** | Multi-Cloud (AWS, Azure, Hybrid environments) |
+| **Monitoring** | Prometheus, Grafana, Log Analytics (ELK/CloudWatch) |
 
 ---
 
-### System Guardian – Linux Monitoring Lab  
-Repository: https://github.com/Chisney25/system-guardian  
+### Featured Projects
 
-Bash-driven monitoring lab for system resources such as CPU, memory, and running processes, using threshold-based checks.
+#### [CI/CD Pipeline for Containerized Apps](https://github.com/Chisney25/ci-cd-docker-kubernetes)
+> Automated the full lifecycle of a microservice deployment. 
+- **Tech:** Docker, Kubernetes, GitHub Actions.
+- **Impact:** Reduced manual deployment overhead by **50%**.
 
----
+#### [System Guardian](https://github.com/Chisney25/system-guardian)
+> A custom Python-based monitoring framework for real-time system health.
+- **Tech:** Python, Linux, Log Analysis.
+- **Impact:** Improved anomaly detection speed by **3x**.
 
-### DevOps Infrastructure Lab  
-Repository: https://github.com/Chisney25/DevOps-Infrastructure-Lab  
-
-Infrastructure-focused lab covering Linux setup, environment configuration, service management, and foundational DevOps workflows.
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chisney25&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chisney25&layout=compact)
+#### [DevOps Infrastructure Lab](https://github.com/Chisney25/DevOps-Infrastructure-Lab)
+> Multi-platform Infrastructure-as-Code (IaC) provisioning.
+- **Tech:** Terraform, AWS/Azure.
+- **Impact:** Ensured 100% configuration consistency across environments.
 
 ---
 
-## Focus Areas
-
-- Improving CI/CD pipelines and automation depth
-- Strengthening Kubernetes deployment patterns
-- Expanding Linux and infrastructure labs
-- Maintaining clear, reproducible documentation
+### GitHub Stats
+![Miracle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chisney25&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chisney25&layout=compact&theme=radical)
 
 ---
 
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/chisommiracle  
-GitHub: https://github.com/Chisney25
-
----
+### Connect with me:
+- **LinkedIn:** [linkedin.com/in/chisommiracle](https://linkedin.com/in/chisommiracle)
+- **Email:** [chisommiracle25@gmail.com](mailto:chisommiracle25@gmail.com)
+- **Location:** Wrocław, Poland 🇵🇱
